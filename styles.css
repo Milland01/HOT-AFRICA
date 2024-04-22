@@ -1,0 +1,101 @@
+body{
+    margin: auto;
+    padding: 0%;
+    font-family: sans-serif;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+
+#navbar{
+    padding: 16px;
+    color: lightskyblue;
+}
+
+
+#logo{
+    height: 120px;
+    margin: 0px;
+}
+
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+#banner {
+    width: 100%;
+    object-fit: cover;
+}
+
+#About{
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#Description{
+    width: 50%;
+    padding-right:8px;
+}
+
+#Team{
+    width: 50%;
+}
+#Team-image{
+    width: 100%;
+    border-radius: 5px;
+}
+
+.location{
+    color: grey;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 16px;
+}
+
+h2{
+    text-align: center;
+}
+
+#jobs{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 8px;
+}
+
+h3{
+    margin-bottom: 4px;
+    margin-top: 0px;
+}
+
+.Apply{
+    float: right;
+}
+
+
+#Footer{
+    background-color: ghostwhite;
+    padding: 8px;
+    margin-top: 32px;
+    text-align: center;
+}
+
+#Footer-links{
+    list-style: none;
+
+}
+
+#Footer-links li{
+    display: inline;
+    margin: 0 16px;
+
+}
+
+.copyright{
+    color: green;
+}
